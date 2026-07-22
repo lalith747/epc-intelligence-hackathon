@@ -191,6 +191,22 @@ Compliance Agent flags in real time
 <b>Live Command Center</b><br/><br/>
 <img src="assets/dashboard.png" width="100%" alt="Unified dashboard" />
 
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Smart Notifications — Telegram Bot</b><br/><br/>
+<img src="assets/notifications.jpeg" width="100%" alt="EPC bot Telegram alert for a high severity compliance issue" />
+</td>
+<td width="50%" valign="middle">
+
+High-severity compliance flags don't wait for someone to open the dashboard — the **EPC bot** pushes them straight to Telegram the moment they're detected, with the spec clause, vendor, and issue summary already attached.
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
