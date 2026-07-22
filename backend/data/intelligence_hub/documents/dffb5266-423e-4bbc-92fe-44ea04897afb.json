@@ -1,0 +1,10 @@
+{
+  "document": "UPS Hall 3 vendor submittal",
+  "vendor": "VoltGrid",
+  "equipment": "UPS",
+  "capacity": "420 kVA",
+  "voltage": "415 V",
+  "redundancy": "N",
+  "certifications": [],
+  "notes": "Vendor requests approval for Hall 3 UPS package without UL evidence."
+}

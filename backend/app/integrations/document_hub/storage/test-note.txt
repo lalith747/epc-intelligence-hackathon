@@ -1,0 +1,6 @@
+Revision: B
+Issue Date: 2026-05-01
+Vendor Submittal - Test Uploader Inc
+Equipment: UPS-99
+DWG-2001
+Clause 5.1
