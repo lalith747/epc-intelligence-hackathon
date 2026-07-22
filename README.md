@@ -725,27 +725,6 @@ Compliance Agent flags in real time
 
 <br/>
 
-## 🖼️ Inside the Workspace
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<b>Document Hub</b><br/><br/>
-<img src="documents.png" width="100%" alt="Document hub — upload, preview, extract" />
-</td>
-<td width="50%" align="center">
-<b>Procurement &amp; Shipment Map</b><br/><br/>
-<img src="procurement.png" width="100%" alt="Procurement tracker and shipment map" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<b>Live Command Center</b><br/><br/>
-<img src="dashboard.png" width="100%" alt="Unified dashboard" />
 
 </div>
 
